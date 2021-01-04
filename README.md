@@ -1,7 +1,7 @@
 # crud-noticias
 Projeto simples para gestão de notícias
 
-## Git clone
+## Git clone https://github.com/Davidxphp/crud-noticias.git
 
 ## composer install
 ## composer update
